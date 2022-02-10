@@ -1,1 +1,2 @@
-esto es el archivo 1
+esto es el archivo 2
+segunda linea file2
